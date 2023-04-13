@@ -1,0 +1,5 @@
+C:\PPIR\proj2\proj2\bin\proj2.dll
+C:\PPIR\proj2\proj2\bin\proj2.pdb
+C:\PPIR\proj2\proj2\obj\Debug\ResolveAssemblyReference.cache
+C:\PPIR\proj2\proj2\obj\Debug\proj2.dll
+C:\PPIR\proj2\proj2\obj\Debug\proj2.pdb

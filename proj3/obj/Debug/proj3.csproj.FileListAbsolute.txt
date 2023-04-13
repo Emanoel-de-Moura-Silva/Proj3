@@ -1,0 +1,11 @@
+C:\PPIR\proj3\proj3\bin\proj3.dll
+C:\PPIR\proj3\proj3\bin\proj3.pdb
+C:\PPIR\proj3\proj3\obj\Debug\ResolveAssemblyReference.cache
+C:\PPIR\proj3\proj3\obj\Debug\proj3.dll
+C:\PPIR\proj3\proj3\obj\Debug\proj3.pdb
+C:\Users\B901175\Pictures\PPIR\proj3\proj3\bin\proj3.dll
+C:\Users\B901175\Pictures\PPIR\proj3\proj3\bin\proj3.pdb
+C:\Users\B901175\Pictures\PPIR\proj3\proj3\obj\Debug\proj3.csproj.AssemblyReference.cache
+C:\Users\B901175\Pictures\PPIR\proj3\proj3\obj\Debug\proj3.csproj.CoreCompileInputs.cache
+C:\Users\B901175\Pictures\PPIR\proj3\proj3\obj\Debug\proj3.dll
+C:\Users\B901175\Pictures\PPIR\proj3\proj3\obj\Debug\proj3.pdb
